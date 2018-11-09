@@ -10,9 +10,10 @@
 2、 PC需要配置ADB环境(Android SDK platform-tools目录下是有这个adb.exe的，就是把Android SDK platform-tools文件夹的路径配置的环境变量)
 
 3、 手机电脑需要在同一个局域网
----
 
-由于执行shell命令
+
+
+由于执行shell命令、所以这个工具需要请求Root权限
 ---
 **su//获取root权限
 
@@ -46,7 +47,7 @@
 
 **adb shell ifconfig wlan0** //查看手机IP地址
 
-**adb connect <你的IP> **
+adb connect <你的IP> //连接手机
 
 有问题发送邮件至
 ---
