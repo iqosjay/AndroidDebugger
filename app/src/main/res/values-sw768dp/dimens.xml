@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<dimen name="app_horizontal_margin">34.1333dp</dimen>
+	<dimen name="app_vertical_margin">34.1333dp</dimen>
+	<dimen name="display_broad_height">375.4667dp</dimen>
+</resources>

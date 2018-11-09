@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Androidデバッグ</string>
+    <string name="app_main_open_usb_debug"> Wi-Fiデバッグモードを開く</string>
+    <string name="app_main_close_usb_debug"> Wi-Fiデバッグモードを閉じる</string>
+    <string name="app_main_tv_not_root_tip">Root権限のないアプリケーションを使用することはできませんでした。</string>
+    <string name="app_tip_exec_cmd_success" formatted="false">コマンドの実行成功：\n%s </string>
+    <string name="app_tip_exec_cmd_failed" formatted="false">実行コマンドが失敗しました：\n%s </string>
+    <string name="app_tip_wifi_has_closed"> Wi-Fiデバッグモードが終了しました。</string>
+</resources>

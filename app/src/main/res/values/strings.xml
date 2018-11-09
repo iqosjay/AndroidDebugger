@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidDebugger</string>
+    <string name="app_main_open_usb_debug">Open Wifi Debug Mode</string>
+    <string name="app_main_close_usb_debug">Close Wifi Debug Mode</string>
+    <string name="app_main_tv_not_root_tip">You could not use the application without root permission.</string>
+    <string name="app_tip_exec_cmd_success" formatted="false">Execute Command Success:\n%s</string>
+    <string name="app_tip_exec_cmd_failed" formatted="false">Execute Command Failed:\n%s</string>
+    <string name="app_tip_wifi_has_closed">The wifi debug mode has been closed.</string>
+</resources>

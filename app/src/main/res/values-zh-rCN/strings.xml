@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android调试</string>
+    <string name="app_main_open_usb_debug">打开Wifi调试</string>
+    <string name="app_main_close_usb_debug">关闭Wifi调试</string>
+    <string name="app_main_tv_not_root_tip">未授予Root权限无法使用</string>
+    <string name="app_tip_exec_cmd_success" formatted="false">执行命令成功:\n%s</string>
+    <string name="app_tip_exec_cmd_failed" formatted="false">执行命令失败:\n%s</string>
+    <string name="app_tip_wifi_has_closed">Wifi调试已经关闭</string>
+</resources>
