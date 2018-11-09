@@ -15,16 +15,16 @@
 
 由于执行shell命令、所以这个工具需要请求Root权限
 ---
-**su//获取root权限
 
-  setprop service.adb.tcp.port 5555//设置监听的端口，端口可以自定义，如5554，5555是默认的
+**su** //获取root权限
+
+**setprop service.adb.tcp.port 5555** //设置监听的端口，端口可以自定义，如5554，5555是默认的
   
-  stop adbd//关闭adbd
+**stop adbd** //关闭adbd
   
-  start adbd//重新启动adbd**
+**start adbd** //重新启动adbd
   
 ---
-所以此工具当然是需要Root权限才可以使用~
 
 执行成功之后会出现一个
 
